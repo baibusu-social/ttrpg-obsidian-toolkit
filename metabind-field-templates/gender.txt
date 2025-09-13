@@ -1,0 +1,8 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Male),
+  option(Female),
+  option(Nonbinary),
+  option(Genderfluid),
+  option(Agender)
+)]

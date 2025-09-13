@@ -1,0 +1,15 @@
+INPUT[inlineSelect(
+  option(null),
+  option(He/Him, He/Him),
+  option(She/Her, She/Her),
+  option(They/Them, They/Them),
+  option(He/They, He/They),
+  option(She/They, She/They),
+  option(They/He, They/He),
+  option(They/She, They/She),
+  option(Ze/Hir, Ze/Hir),
+  option(Xe/Xem, Xe/Xem),
+  option(It/Its, It/Its),
+  option(Any, Any),
+  option(Other, Other)
+)]

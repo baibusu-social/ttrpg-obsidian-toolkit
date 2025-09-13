@@ -1,0 +1,11 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Infant),
+  option(Child),
+  option(Teen),
+  option(Young Adult),
+  option(Adult),
+  option(Mature Adult),
+  option(Elderly),
+  option(Ancient)
+)]

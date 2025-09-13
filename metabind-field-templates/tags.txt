@@ -1,0 +1,14 @@
+INPUT[inlineSelect(
+  option(#POI),
+  option(#Artifact),
+  option(#Organization),
+  option(#Geography),
+  option(#Settlement),
+  option(#Character),
+  option(#NPC),
+  option(#Player),
+  option(#Cosmology),
+  option(#Religion),
+  option(#God),
+  option(#Country)
+)]

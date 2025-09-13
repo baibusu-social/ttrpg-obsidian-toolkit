@@ -1,0 +1,11 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Thorp),
+  option(Hamlet),
+  option(Village),
+  option(Small Town),
+  option(Large Town),
+  option(Small City),
+  option(Large City),
+  option(Metropolis)
+)]

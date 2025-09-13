@@ -1,0 +1,14 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Straight, Straight),
+  option(Gay, Gay),
+  option(Lesbian, Lesbian),
+  option(Bisexual, Bisexual),
+  option(Pansexual, Pansexual),
+  option(Asexual, Asexual),
+  option(Demisexual, Demisexual),
+  option(Polysexual, Polysexual),
+  option(Queer, Queer),
+  option(Questioning, Questioning),
+  option(Other, Other)
+)]

@@ -1,0 +1,12 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Ally),
+  option(Friend),
+  option(Rival),
+  option(Enemy),
+  option(Mentor),
+  option(Protector),
+  option(Dependent),
+  option(Stranger),
+  option(Other)
+)]

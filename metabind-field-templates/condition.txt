@@ -1,0 +1,8 @@
+INPUT[inlineSelect(
+  option(Null),
+  option(Healthy),
+  option(Hurt),
+  option(Sick),
+  option(Dying),
+  option(Dead)
+)]
