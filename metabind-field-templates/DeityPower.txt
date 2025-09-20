@@ -1,0 +1,6 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Greater God),
+  option(Lesser God),
+  option(Demigod)
+)]

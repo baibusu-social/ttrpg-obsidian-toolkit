@@ -1,0 +1,11 @@
+INPUT[inlineSelect(
+  option(null),
+  option("up to 20"),
+  option("21 to 60"),
+  option("61 to 200"),
+  option("201 to 2K"),
+  option("2K to 5K"),
+  option("5K to 10K"),
+  option("10K to 25K"),
+  option("25K+")
+)]

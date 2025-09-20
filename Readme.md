@@ -38,7 +38,8 @@ The templates contained within this repo assume the following directory tree.
 obsidian-vault
 |-- 0. GM Screen (Optional)
 |-- 0. Scratch Notes
-|-- 1. Party (Optional)
+|-- 1. Bases (Optional)
+|-- 1. The Party (Optional)
 |-- 1. World Almanac
 |   |-- Characters
 |   |-- Cosmology
@@ -52,12 +53,16 @@ obsidian-vault
 |-- z_Assets
 |   |-- Characters
 |   |-- Cosmology
+|   |-- Country
+|   |-- Events
 |   |-- Geography
 |   |-- Items
 |   |-- Locations
 |   |-- Misc
 |   |-- Oraganizations
+|-- z_data
 |-- z_Templates
+|-- z_tools
 ```
 
 #### Using the Meta Bind Plugin

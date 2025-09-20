@@ -1,6 +1,7 @@
 INPUT[inlineSelect(
   option(#POI),
   option(#Artifact),
+  option(#Item),
   option(#Organization),
   option(#Geography),
   option(#Settlement),
@@ -10,5 +11,9 @@ INPUT[inlineSelect(
   option(#Cosmology),
   option(#Religion),
   option(#God),
-  option(#Country)
+  option(#Country),
+  option(#Enemy),
+  option(#Realm),
+  option(#Event),
+  option(#Session)
 )]

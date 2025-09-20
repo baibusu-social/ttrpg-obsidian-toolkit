@@ -1,0 +1,21 @@
+INPUT[inlineSelect(
+  option(Autocracy),
+  option(Bureaucracy),
+  option(Confederacy),
+  option(Democracy),
+  option(Dictatorship),
+  option(Feudalism),
+  option(Gerontocracy),
+  option(Hierarchy),
+  option(Kleptocracy),
+  option(Magocracy),
+  option(Martiarchy),
+  option(Meritocracy),
+  option(Stratocracy),
+  option(Monarchy),
+  option(Oligarchy),
+  option(Plutocracy),
+  option(Republic),
+  option(Satrapy),
+  option(Theocracy)
+)]

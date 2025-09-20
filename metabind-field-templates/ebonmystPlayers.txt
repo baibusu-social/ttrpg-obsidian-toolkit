@@ -1,0 +1,9 @@
+INPUT[inlineSelect(
+  option(Eri),
+  option(Fahzo),
+  option(Grimlik),
+  option(Knish),
+  option(Kostra),
+  option(Methodus),
+  option(Xander)
+)]

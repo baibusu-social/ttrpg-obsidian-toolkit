@@ -1,0 +1,13 @@
+INPUT[inlineSelect(
+  option(null),
+  option(Untouched),
+  option(Faint),
+  option(Tainted),
+  option(Stained),
+  option(Blighted),
+  option(Corrupted),
+  option(Defiled),
+  option(Forsaken),
+  option(Cursed),
+  option(Void-touched)
+)]
